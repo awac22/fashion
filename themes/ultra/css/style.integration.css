@@ -1,0 +1,18 @@
+.padtop10.mb-2.language {
+    display: none;
+}
+.off-canvas-toggle-cover {
+    display: none;
+}
+.header-style-2 .search-button {
+    background: none !important;
+  
+}
+i.ti-search {
+    color: #fff;
+}
+.main-header .main-nav ul li a
+{
+padding: 27px 15px !important;
+
+}
